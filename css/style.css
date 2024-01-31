@@ -3493,6 +3493,10 @@ input[type="button"].btn-block {
     height: 5%;
   }
 
+  .navbar-brand a{
+    display: contents;
+  }
+
 .navbar-nav {
   display: -webkit-box;
   display: -ms-flexbox;
