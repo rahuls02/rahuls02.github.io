@@ -3485,6 +3485,9 @@ input[type="button"].btn-block {
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none;
     color: #E5E5E5; }
+  .navbar-brand img{
+    width: 50%;
+  }
 
 .navbar-nav {
   display: -webkit-box;
