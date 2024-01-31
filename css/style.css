@@ -8809,6 +8809,9 @@ h1, h2, h3, h4, h5,
   .resume-wrap h2 {
     font-size: 24px;
     font-weight: 700; }
+  .resume-wrap h3 {
+    font-size: 21px;
+    font-weight: 700; }
   .resume-wrap .position {
     font-size: 18px;
     font-weight: 700;
