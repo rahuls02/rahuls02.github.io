@@ -179,7 +179,11 @@ img {
   vertical-align: middle;
   border-style: none; }
 
-svg {
+img.icon-images {
+    padding-bottom: 31px;
+}
+
+  svg {
   overflow: hidden;
   vertical-align: middle; }
 
